@@ -16,7 +16,7 @@ Batch Program Uninstalls Windows within Seconds. This is quite a quick way to de
 
 > It's a long outgoing process takeover the ownership to user and delete the important windows folders.
 
-## Breif Reminder (Don't Run)
+## Momentary Reminder (Don't Run)
 
 ### Quick Uninstall 🚀
 
@@ -34,7 +34,8 @@ Batch Program Uninstalls Windows within Seconds. This is quite a quick way to de
 
 ## Warning (It's Risky) ⚠
 
-> Note : A reminder avoid that piece of code curse you eventually requires a reinstallation of operating system. It can be a harmful malware to damage someone by encrypting to run when user open any picture, video, document or program. I'm aware of that and probably make the repository private sooner.
+> Note : A reminder avoid that piece of code curse you eventually requires a reinstallation of operating system. 
+> It can be a harmful malware to damage someone by encrypting to run when user open any picture, video, document or program. I'm aware of that and probably make the repository private sooner.
 
 ## Support 💓
 
