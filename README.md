@@ -2,6 +2,10 @@
 
 Batch Program Uninstalls Windows within Seconds. This is quite a quick way to destroy a window system and the code has ownership to outperform the operation. I have taken multiple ways to uninstall windows.
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Outcomes/Windows Uninstall.png">
+</p>
+
 ## Methods to Uninstall Windows
 
 - Quick Uninstall 🚀
