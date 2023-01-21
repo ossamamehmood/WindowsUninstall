@@ -24,6 +24,10 @@ The Batch Program Uninstalls Windows within Seconds. This is quite a quick way t
 
 - It's important to note that this script is very dangerous and could cause irreparable damage to your computer, if you decide to proceed with the deletion, please be extremely careful and ensure that you have a thorough understanding of the system and the specific files and folders that you are deleting.
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Outcomes/Run on Cloud Workspace.PNG">
+</p>
+
 ## Warning (It's Risky)
 
 > Note : A reminder avoid that piece of code curse you eventually requires a reinstallation of operating system. It can be a harmful malware to damage someone by encrypting to run when user open any picture, video, document or program. I'm aware of that and probably make the repository private sooner.
