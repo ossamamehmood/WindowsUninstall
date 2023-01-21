@@ -12,7 +12,7 @@ Batch Program Uninstalls Windows within Seconds. This is quite a quick way to de
 
 > It's a long outgoing process takeover the ownership to user and delete the important windows folders.
 
-## Breif Reminder (Don't RuN)
+## Breif Reminder (Don't Run)
 
 ### Quick Uninstall 🚀
 
@@ -25,7 +25,7 @@ Batch Program Uninstalls Windows within Seconds. This is quite a quick way to de
 - It's important to note that this script is very dangerous and could cause irreparable damage to your computer, if you decide to proceed with the deletion, please be extremely careful and ensure that you have a thorough understanding of the system and the specific files and folders that you are deleting.
 
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./Outcomes/Run on Cloud Workspace.PNG">
+  <img alt="" style="{max-height: 20px}" src="./Outcomes/Run on Cloud Workspace.jpg">
 </p>
 
 ## Warning (It's Risky)
