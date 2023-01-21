@@ -32,7 +32,7 @@ Batch Program Uninstalls Windows within Seconds. This is quite a quick way to de
   <img alt="" style="{max-height: 20px}" src="./Outcomes/Run on Cloud Workspace.jpg">
 </p>
 
-## Warning (It's Risky) ⚠
+## Warning (It's Risky) ♻️
 
 > Note : A reminder avoid that piece of code curse you eventually requires a reinstallation of operating system. 
 > It can be a harmful malware to damage someone by encrypting to run when user open any picture, video, document or program. I'm aware of that and probably make the repository private sooner.
